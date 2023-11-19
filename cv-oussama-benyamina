@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV</title>
+    
+ 
+</head>
+
+<body>
+
+    <header>
+        <h1>Benyamina Oussama</h1>
+    </header>
+
+    
+        <h3>- Informations Personnelles</h3>
+
+        <p>Adresse domicile : 11 rue santi dominique 13001</p>
+        <p>Adresse mail : oussama.benyamina@laplateforme.io</p>
+        <p>Numéro : 0774666255</p>
+  
+
+    <section>
+        <h3>- Projets Professionnels</h3>
+        <p>Je veux vraiment prendre mon master en informatique et améliorer mes compétences pour devenir la meilleure version de moi-même.</p>
+    </section>
+
+    <section>
+        <h3>- Mes Études</h3>
+        <p>J'ai obtenu mon baccalauréat en 2020 et je suis actuellement étudiant en informatique à la Plateforme en France.</p>
+    </section>
+
+    <section>
+        <h3>- Mes Compétences</h3>
+        <div>
+            
+               <img src="./images/lunix.png" alt="logo img_lunix" width="200" height="200">             
+                      
+             
+             
+                <img src="./images/html-css.png" alt="logo img_html-css" width="200" height="200">
+             
+        
+       
+           
+        <img src="./images/bash.png" alt="logo img_bash" width="200" height="200">
+       </div>
+        
+    </section>
+
+    <footer>
+        <h3>- Mon site GitHub</h3>
+        <a href="https://github.com/oussama-benyamina">Site web GitHub</a>
+        <br>
+        Télécharger une version PDF de mon CV : <a href="mon-cv.pdf" download="mon-cv">Télécharger</a>
+    </footer>
+
+</body>
+
+</html>
+
